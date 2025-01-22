@@ -1,0 +1,31 @@
+.input-label{
+    margin-right: 5px;
+}
+
+.text{
+    min-width: 300px;
+}
+
+.edit{
+    height: 60vh;
+    width: 70%;
+    min-height: 300px;
+    min-width: 300px;
+    margin: 20vh;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    justify-content: start;
+    background-color: wheat;
+}
+
+.submit_button{
+   width: min-content;
+   align-self: center;
+   margin: 5px;
+}
